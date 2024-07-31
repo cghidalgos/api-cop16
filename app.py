@@ -62,4 +62,4 @@ def predict():
     })
 
 if __name__ == '__main__':
-    app.run(debug=True, port=9003)  # Asegúrate de estar ejecutando en el puerto correcto
+    app.run(debug=True)  # Asegúrate de estar ejecutando en el puerto correcto
