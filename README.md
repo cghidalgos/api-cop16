@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación web que predice la supervivencia de una planta de frijol en función de varias variables ambientales y del suelo. La aplicación utiliza un modelo de aprendizaje automático para hacer las predicciones y también ofrece recomendaciones basadas en GPT-4.
 
+el modelo de regresión de encuentra en https://drive.google.com/file/d/1olX-KrMm_O-yM1fI9Y2pCS2gppHb0NbP/view?usp=sharing
+
 ## Estructura del Proyecto
 
 ### 1. Backend: Flask API
